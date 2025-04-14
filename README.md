@@ -1,2 +1,2 @@
 # SLL 
-Compilador Seleccionado: gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+Compilador Seleccionado: gcc (MinGW.org GCC-6.3.0-1) 6.3.0
