@@ -1,1 +1,2 @@
-El compilador utilizado fue: gcc (MinGW.org GCC-6.3.0-1) 6.3.0
+El compilador utilizado fue: gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+
